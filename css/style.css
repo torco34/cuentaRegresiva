@@ -1,0 +1,74 @@
+*{
+	margin:0;
+
+}
+/******portada*****/
+.portada{
+	width: 100%;
+	background: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	transition: .5s ease-out all;
+	color:#000;
+
+}
+
+.portada .header{
+	margin-bottom: 100px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+.redes{
+	padding: 15px 0;
+	display: inline-block;
+	min-width: 120px;
+	border-radius: 5px;
+	background: #ff00;
+	color:#fff;
+	font-size: 30px;
+	margin: 0 20px;
+	transition: .3s ease all;
+}
+
+
+
+
+
+
+
+
+
+
+.containe-lorm{
+	margin-top: 20px;
+	padding: 10px;
+}
+ 
+
+ .containe-lorm{
+ 	height: 50vh;
+ 	background-attachment: fixed;
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-image: url(../img/img2.jpg);
+ }
+
+ body{
+ 	background-color: rgb(0, 0, 0, 0.8);
+ 	color:#fff;
+ 	font-family: 'Viaoda Libre', cursive;
+ }
+
+ .loor{
+ 	height: 50vh;
+ 	background-attachment: fixed;
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-image: url(../img/im1.jpg);
+ }
